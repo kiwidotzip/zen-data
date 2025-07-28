@@ -14,5 +14,9 @@
   "Skyblock_Lobby": {
     "displayName": "§9Skyblock_Lobby§r",
     "highlightColor": [85, 85, 255, 127]
+  },
+  "Seladem": {
+    "displayName": "§dSeladem",
+    "highlightColor": [153, 0, 0, 127]
   }
 }
