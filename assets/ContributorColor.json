@@ -1,0 +1,22 @@
+{
+  "aurielyn": {
+    "displayName": "§daurielyn§r",
+    "highlightColor": [255, 0, 255, 127]
+  },
+  "cheattriggers": {
+    "displayName": "§cKiwi§r",
+    "highlightColor": [255, 0, 0, 127]
+  },
+  "Aur0raDye": {
+    "displayName": "§5Mango 6 7§r",
+    "highlightColor": [170, 0, 170, 127]
+  },
+  "Skyblock_Lobby": {
+    "displayName": "§9Skyblock_Lobby§r",
+    "highlightColor": [85, 85, 255, 127]
+  },
+  "Seladem": {
+    "displayName": "§dSeladem§r",
+    "highlightColor": [153, 0, 0, 127]
+  }
+}
