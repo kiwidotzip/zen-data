@@ -19,7 +19,7 @@
     "highlightColor": [153, 0, 0, 127]
   },
   "NEXD_": {
-     "displayName": "§dNEXD_",
-     "highlightColor": [255, 0, 255]
+     "displayName": "§dNEXD_§r",
+     "highlightColor": [255, 0, 255, 117]
   }
 }
