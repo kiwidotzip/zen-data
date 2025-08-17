@@ -1,7 +1,6 @@
 {
   "aurielyn": {
     "displayName": "§daurielyn§r",
-    "highlightColor": [255, 0, 255, 127]
   },
   "cheattriggers": {
     "displayName": "§cKiwi§r",
@@ -18,5 +17,9 @@
   "Seladem": {
     "displayName": "§dSeladem§r",
     "highlightColor": [153, 0, 0, 127]
+  },
+  "NEXD_": {
+     "displayName": "§dNEXD_§r",
+     "highlightColor": [255, 0, 255, 117]
   }
 }
